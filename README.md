@@ -3,8 +3,6 @@
 - This is a Front-End project to enhance my knowledge and understanding of it. The only technologies used are HTML and CSS.
 - The page contains several transitions and is also responsive (via @media queries) which were interesting to use without the help of Javascript.
 
-<br>
-
 ## SCREENSHOTS
 ### Le Web Creative Studio Logo
 
